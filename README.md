@@ -1,4 +1,3 @@
-# git_first_repo
-My first repository
+# My first Git Repo
 
 This repository is for me to learn about Git and GitHub!
